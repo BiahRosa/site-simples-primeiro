@@ -33,4 +33,5 @@ Esse repositório marca o início da minha jornada na programação web. É um p
 Sinta-se à vontade para contribuir com este projeto! Se você tiver alguma sugestão, correção ou nova ideia, abra um pull request.
 
 **Agradecimentos:**
+
 Agradeço à Fundação Bradesco por este curso que me introduziu ao mundo da programação. Foi uma experiência enriquecedora e inspiradora.
